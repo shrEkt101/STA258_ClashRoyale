@@ -1,0 +1,10 @@
+[project]
+name = "sta258-gp"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "kagglehub>=1.0.3",
+    "matplotlib>=3.11.2",
+    "pandas>=3.1.1",
+]
